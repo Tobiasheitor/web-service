@@ -1,0 +1,22 @@
+{
+  "name": "web-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobiasheitor/web-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tobiasheitor/web-service/issues"
+  },
+  "homepage": "https://github.com/Tobiasheitor/web-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
